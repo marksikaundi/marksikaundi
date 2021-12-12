@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marksikaundi
-i'm intrested to learn and collaborate with anyone in different programming language
-I love to learn from different people with challenges based on
-am a computer science student📚�, looking forward to get some amazing stuff here
-check my site below
-🌐 https://marksikaundi.me
-🚀currently learn python, go, ruby and there family
+i'm intrested to learn and collaborate with anyone
+I love to learn from different people
+check my platform below
+🌐 https://cs60apa.educationhost.cloud
+🚀currently am a lecturing computer science
