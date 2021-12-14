@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @marksikaundi
+- 👋 Hi, I’m Mark Sikaundi
 - i'm intrested to learn and collaborate with anyone
-- I love to learn from different people
-- check my platform below
+- I love to learn from other people
+- Building space for the willing to learn
+- JS,React, Ruby, Python
 - 🌐 https://cs60apa.educationhost.cloud
-- 🚀currently am a lecturing computer science
+- 🚀currently am lecturing computer science
