@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark Sikaundi
-- [![GitHub license](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
+- [![GitHub license]
 [![Lecturing](https://www.marksikaundi.me)
 [![Dev Status](https://cs60apa.educationhost.cloud/edu)
 [![Python Course](https://cs60apa.educationhost.cloud)
