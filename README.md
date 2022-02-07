@@ -3,7 +3,7 @@
 <p>
 A Computer Science Lecture, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
 <br>
-On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python[Django & Flusk], JavaScript[Reactjs, React Native], Blockchain, APIS and Much More.
+On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python[Django & Flask], JavaScript[Reactjs, React Native], Blockchain, APIS and Much More.
 </p>
 
 ### Technologies I Use
