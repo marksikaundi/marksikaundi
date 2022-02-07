@@ -1,14 +1,6 @@
-- 👋 Hello, I’m Mark Sikaundi
 
-  <hr>
-- i'm intrested to learn and collaborate with anyone
-- I love to learn from other people
-- Building space for the willing to learn
-- JS,React, Ruby, Python, Django
-- 🌐 https://cs60apa.educationhost.cloud
-- 🚀currently am lecturing computer science
 - 
-# Hello World! I'm Sikaundi Mark <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
+# Hey! I'm Sikaundi Mark <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
 
 <p>
 A Computer Science Lecture, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
@@ -19,7 +11,6 @@ On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Py
 ### Technologies I Use
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
