@@ -1,7 +1,5 @@
 
-- 
-# Hey! I'm Sikaundi Mark <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
-
+# Hey! I'm Sikaundi Mark 
 <p>
 A Computer Science Lecture, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
 <br>
@@ -31,3 +29,4 @@ On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Py
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-emmanuel-sikaundi-123a55198/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alisikaundi)
+[![facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://facebook.com/cs60apa)
