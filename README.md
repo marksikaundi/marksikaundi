@@ -6,7 +6,7 @@ A Computer Science Lecture, Software Engineer, Developer & Writter From Lusaka, 
 On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python[Django & Flask], JavaScript[Reactjs, React Native], Blockchain, APIS and Much More.
 </p>
 
-### Technologies I Use
+### Technologies I Use in Software Development 
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
