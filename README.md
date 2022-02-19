@@ -1,7 +1,7 @@
 
 # Hey! I'm Sikaundi Mark 
 <p>
-A Computer Science Lecture, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
+A Dev Lead, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
 <br>
 On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python[Django & Flask], JavaScript[Reactjs, React Native], Blockchain, APIS and Much More.
 </p>
@@ -18,7 +18,7 @@ On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Py
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <br />
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![materialui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
