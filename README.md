@@ -1,9 +1,9 @@
 
 # Hey! I'm Sikaundi Mark 
 <p>
-A Dev Lead, Software Engineer, Developer & Writter From Lusaka, Zambia. I'm Also A Freelancer #Upwork
+Lead, Software Engineer & Writter From Lusaka, Zambia. 
 <br>
-On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python[Django & Flask], JavaScript[Reactjs, React Native], Blockchain, APIS and Much More.
+On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning, Blockchain and much More.
 </p>
 
 Language <br> 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
