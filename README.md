@@ -4,7 +4,10 @@
 Lead, Software Engineer & Writter From Lusaka, Zambia. 
 <br>
 On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning, Blockchain and much More.
-</p>
+</p> 
+
+sample
+
 
 Programming Languages <br> 	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
