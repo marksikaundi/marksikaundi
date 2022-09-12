@@ -1,7 +1,7 @@
 
 # Hey! I'm Sikaundi Mark 
 <p>
-Lead, Software Engineer & Writter From Lusaka, Zambia. 
+Lead, Software Engineer From Lusaka, Zambia. 
 <br>
 On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning, Blockchain and much More.
 </p> 
