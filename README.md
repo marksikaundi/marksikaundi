@@ -4,7 +4,7 @@
 Software Engineer
 <ul>Lusaka, Zambia.</ul>
 <br>
-On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning, Blockchain and much More.
+On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning and many more.
 </p> 
 
 
