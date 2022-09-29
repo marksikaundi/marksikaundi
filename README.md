@@ -1,8 +1,7 @@
 
 # Hey! I'm Sikaundi Mark 
 <p>
-Software Engineer
-<ul>Kabwe, Zambia.</ul>
+<ul>Software Engineer based in Zambia.</ul>
 <br>
 On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning and many more.
 </p> 
