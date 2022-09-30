@@ -3,7 +3,7 @@
 <p>
 <ul>Software Engineer based in Zambia.</ul>
 <br>
-On My Github You'll Find Stuff Related to Mobile Developement, Deep Learning and many more.
+My profile have skills in various field
 </p> 
 
 
