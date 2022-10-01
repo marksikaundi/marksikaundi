@@ -1,5 +1,5 @@
 
-# Hey! I'm Sikaundi Mark 
+# Hey, Sikaundi Mark here
 <p>
 <ul>Software Engineer based in Zambia.</ul>
 <br>
