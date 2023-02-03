@@ -1,7 +1,7 @@
 
 # Hey, Sikaundi Mark here
 <p>
-<ul>Software Engineer based in Zambia.</ul>
+<ul>QA & Software Engineer based in Zambia.</ul>
 <br>
 My profile have skills in various field
 </p> 
