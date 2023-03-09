@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mark Sikaundi is a talented software engineer and software tester with a passion for developing high-quality software that meets the needs of users. He has several years of experience in the software development industry and is known for his dedication to delivering projects on time and to the highest standards.
+I'm Mark Sikaundi a talented software engineer and software tester with a passion for developing high-quality software that meets the needs of users. i have several years of experience in the software development industry and am known for the dedication to delivering projects on time and to the highest standards.
 
 
 ## 🌐 Socials:
