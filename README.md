@@ -1,7 +1,8 @@
 # 💫 About Me:
 #!/bin/bash
 
-echo "Mark Sikaundi"
+echo "I'm a Software Engineer (SE)."
+echo "Email ME: mark@devcircleafrica.com"
 
 
 ## 🌐 Socials:
