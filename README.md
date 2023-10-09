@@ -1,8 +1,8 @@
 # 💫 About Me:
 #!/bin/bash
 
-echo "I'm a Software Engineer (SE)."
-echo "Email ME: mark@devcircleafrica.com"
+echo "I'm a Software Engineer (SE).",
+"Email ME: mark@devcircleafrica.com"
 
 
 ## 🌐 Socials:
