@@ -1,7 +1,7 @@
 # 💫 About Me:
 #!/bin/bash
 
-"I'm a Software Engineer (SE).", for any support reach out me via  mark@devcircleafrica.com
+I'm a Software Engineer (SE), for any support reach out to me via  mark@devcircleafrica.com
 
 
 ## 🌐 Socials:
