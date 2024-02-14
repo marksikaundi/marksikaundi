@@ -1,15 +1,10 @@
 # 💫 About Me:
 #!/bin/bash
 
-I'm a Software Engineer (SE), for any support reach out to me via  mark@devcircleafrica.com
-
-## 🥷 Code Wars
-![Code Wars](https://www.codewars.com/users/marksikaundi/badges/large)
-
-## Daily Dev
-<a href="https://app.daily.dev/marksikaundi">
-<img src="https://api.daily.dev/devcards/f61fc916295c402aaf5e516ab1665937.png?r=j31" width="400" alt="mark sikaundi's Dev Card"/>
-</a>
+#✅: Mark Sikaundi
+#📂: Trainer | Scientist | Engineer
+#🔎: Researcher - Machine Learning | Deep Learning
+#📩: mark@devcircleafrica.com
 
 
 
