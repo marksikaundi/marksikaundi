@@ -1,9 +1,9 @@
 # 💫 About Me:
 #!/bin/bash
 
-#✅: Mark Sikaundi
-#📂: Trainer | Scientist | Engineer
-#🔎: Researcher - Machine Learning | Deep Learning
+✅: Mark Sikaundi <br>
+#📂: Trainer | Scientist | Engineer <br>
+#🔎: Researcher - Machine Learning | Deep Learning<br>
 #📩: mark@devcircleafrica.com
 
 
