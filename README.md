@@ -4,7 +4,7 @@
 ✅: Mark Sikaundi <br>
 📂: Trainer | Scientist | Engineer <br>
 🔎: (AI)Researcher - Machine Learning | Deep Learning<br>
-📩: mark@devcircleafrica.com
+📩: mark@lupleg.website
 
 
 
